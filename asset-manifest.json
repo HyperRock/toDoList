@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HyperRock/toDoList/static/css/main.5a1e726d.css",
-    "main.js": "/HyperRock/toDoList/static/js/main.cdd0dfcd.js",
-    "static/js/787.b2c88a6a.chunk.js": "/HyperRock/toDoList/static/js/787.b2c88a6a.chunk.js",
-    "index.html": "/HyperRock/toDoList/index.html",
-    "main.5a1e726d.css.map": "/HyperRock/toDoList/static/css/main.5a1e726d.css.map",
-    "main.cdd0dfcd.js.map": "/HyperRock/toDoList/static/js/main.cdd0dfcd.js.map",
-    "787.b2c88a6a.chunk.js.map": "/HyperRock/toDoList/static/js/787.b2c88a6a.chunk.js.map"
+    "main.css": "/toDoList/static/css/main.5a1e726d.css",
+    "main.js": "/toDoList/static/js/main.3d4f1da8.js",
+    "static/js/787.b2c88a6a.chunk.js": "/toDoList/static/js/787.b2c88a6a.chunk.js",
+    "index.html": "/toDoList/index.html",
+    "main.5a1e726d.css.map": "/toDoList/static/css/main.5a1e726d.css.map",
+    "main.3d4f1da8.js.map": "/toDoList/static/js/main.3d4f1da8.js.map",
+    "787.b2c88a6a.chunk.js.map": "/toDoList/static/js/787.b2c88a6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a1e726d.css",
-    "static/js/main.cdd0dfcd.js"
+    "static/js/main.3d4f1da8.js"
   ]
 }
